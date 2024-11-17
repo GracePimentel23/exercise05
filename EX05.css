@@ -1,0 +1,59 @@
+/*
+Pimentel, Grace
+ISTE240
+Spring 2024
+Exercise 05 - css file
+*/
+
+body{
+	 font-family: Georgia, serif;
+}
+
+
+
+#ex5a, #ex5b, #ex5c, #ex5d, #ex5e{
+	border-top: dotted grey 3px;
+	border-bottom: double grey 3px;
+    margin: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    background-color: lightblue;
+
+}
+
+h2 {
+  color: white;
+  padding:6px;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+div{
+	padding: 1em;
+}
+
+footer {
+    display: block;
+    text-align:center;
+}
+
+#styleMe{
+	padding-top:10px;
+}
+
+form {
+    display: block;
+    padding:25px;
+   
+}
+
+#fname, #lname, #dog, #major,#firstoperand,#secondoperand{
+	padding:15px;
+	margin:8px;
+}
+
+p {
+	padding: 10px;
+	font-size:1.35em;
+}
